@@ -58,6 +58,14 @@ ul.social {
     width: 1.8rem;
 }
 
+.social li:hover img {
+    width: 2.0rem;
+}
+
+.social li:hover i.fa {
+    font-size: 2.2rem;
+}
+
 .social .twitter a {
     color: #00aced;
 }
@@ -68,4 +76,8 @@ ul.social {
 
 .social .stack-overflow a {
     color: #f48024;
+}
+
+.social .linkedin a {
+    color: #0077b5;
 }
